@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\robin\documents\esgi\projets\langage c\bdd_yaml\bdd_yaml\main.c
+	<stdio.h>
+	<stdlib.h>
+
